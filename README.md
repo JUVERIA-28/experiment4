@@ -20,7 +20,7 @@ Add your API key
 Open index.html in browser
 
 GitHub:
-🔗 https://github.
+🔗 https://github.com/JUVERIA-28/experiment4.git
 
 Live Output:
 🌐 Your site is live at https://juveria-28.github.io/experiment4/
