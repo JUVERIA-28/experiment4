@@ -18,7 +18,7 @@ Add your API key
 Open index.html in browser
 
 GitHub:
-🔗 https://github.com/yourusername/project4-weather-es6
+🔗 https://github.com/JUVERIA-28/experiment4.git
 
 Live Output:
 🌐 https://your-live-link.com/project4-weather-es6
