@@ -12,14 +12,17 @@ Tools Used:
 JavaScript (ES6)
 Chart.js
 OpenWeatherMap API
+html
+css
 
 Run Instructions:
 Add your API key
 Open index.html in browser
 
 GitHub:
-🔗 https://github.com/JUVERIA-28/experiment4.git
+🔗 https://github.
 
 Live Output:
-🌐 https://your-live-link.com/project4-weather-es6
+🌐 Your site is live at https://juveria-28.github.io/experiment4/
+
 
