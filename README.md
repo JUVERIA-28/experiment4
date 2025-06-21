@@ -25,4 +25,7 @@ GitHub:
 Live Output:
 🌐 Your site is live at https://juveria-28.github.io/experiment4/
 
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/a4b3a84a-2fa9-4c05-8415-5788e6fb85d0)
 
